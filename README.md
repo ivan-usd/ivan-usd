@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivan-usd
+- 👋 Hi, I’m Ivan
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning data mining
 - 📫 How to reach me ivanchavez@sandiego.edu
