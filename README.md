@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Mining
+- 🌱 I’m currently learning Applied Predictive Modeling
 - 📫 How to reach me ivanchavez@sandiego.edu
 
 <!---
