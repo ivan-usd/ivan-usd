@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Quickeats: A Computer Vision Application](https://github.com/ivan-usd/usd-capstone)
 
-- 🌱 I’m currently learning **Neural Network Architectures**
-
 - 📫 How to reach me **ivanchavez@sandiego.edu**
 
 <h3 align="left">Connect with me:</h3>
